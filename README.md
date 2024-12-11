@@ -72,4 +72,6 @@ This repository contains the code for a simple **AI Chatbot** application built 
 ```  
 
 ---
-#Working model
+## Working model
+
+https://github.com/user-attachments/assets/3d433c69-a84c-421a-86a7-83aaca40e82d
